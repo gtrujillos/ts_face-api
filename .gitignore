@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+.rpt2_cache
+.env
+tmp
+proto
+weights_uncompressed
+weights_unused
+docs
+out
